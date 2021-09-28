@@ -1,4 +1,4 @@
-model_stock_predictions
+stock predictions
 ==============================
 
 A Model to predict Stock market behaviour and help in making investment strategies. 
